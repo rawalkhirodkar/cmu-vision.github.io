@@ -1,0 +1,5 @@
+name:: Rawal Khirodkar
+img:: people/students/rkhirodk.jpeg
+url:: https://rawalkhirodkar.github.io/
+program:: PhD
+year:: 2019
